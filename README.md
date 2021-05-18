@@ -1,3 +1,6 @@
+#### Console&Game
+[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/zuannmsl/)
+
 ##### Genshin Impact
 ![](https://genshin-card.getloli.com/detail/4,5,27-30,32,35,37-39/173383242.png)
 
