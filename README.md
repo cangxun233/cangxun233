@@ -35,6 +35,14 @@
 
 [![](https://chat.getloli.com/room/@cangxun233.github/svg?width=600&height=100&limit=20&theme=light&title=cangxun233@github:%20~&fontSize=13)](https://chat.getloli.com/room/@cangxun233.github?title=cangxun233的留言板)
 
+ <!-- waka-box start -->
+
+#### <a href="https://gist.github.com/cangxun233/e609c4f482945f64f2f5944876a23e83" target="_blank">📊 每周工作报告</a>
+
+<!-- Powered by https://github.com/journey-ad/waka-box-go . -->
+<!-- waka-box end -->
+
+
 #### GitHub Stats
 
 ![cangxun233's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cangxun233&show_icons=true)
