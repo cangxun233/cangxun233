@@ -26,7 +26,11 @@
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/zuannmsl/)
 
  <!-- waka-box start -->
- <!-- waka-box end -->
+
+#### <a href="https://gist.github.com/cangxun233/e609c4f482945f64f2f5944876a23e83" target="_blank">📊 每周工作报告</a>
+
+<!-- Powered by https://github.com/journey-ad/waka-box-go . -->
+<!-- waka-box end -->
 
 #### GitHub Stats
 
