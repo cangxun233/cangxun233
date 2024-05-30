@@ -25,23 +25,6 @@
 
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/zuannmsl/)
 
-##### Genshin Impact
-
-![](https://genshin-card.getloli.com/detail/4,5,27-30,32,35,37-39/173383242.png)
-
-
-
-⬇️**点击下方图片留言**⬇️
-
-[![](https://chat.getloli.com/room/@cangxun233.github/svg?width=600&height=100&limit=20&theme=light&title=cangxun233@github:%20~&fontSize=13)](https://chat.getloli.com/room/@cangxun233.github?title=cangxun233的留言板)
-
- <!-- waka-box start -->
-
-#### <a href="https://gist.github.com/cangxun233/e609c4f482945f64f2f5944876a23e83" target="_blank">📊 每周工作报告</a>
-
-<!-- Powered by https://github.com/journey-ad/waka-box-go . -->
-<!-- waka-box end -->
-
 
 #### GitHub Stats
 
