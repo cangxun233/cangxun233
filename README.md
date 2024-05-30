@@ -27,11 +27,7 @@
 
 
 
- <!-- waka-box start -->
-
-#### <a href="https://gist.github.com/cangxun233/e609c4f482945f64f2f5944876a23e83" target="_blank">📊 每周工作报告</a>
-
-<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
+<!-- waka-box start -->
 <!-- waka-box end -->
 
 #### GitHub Stats
